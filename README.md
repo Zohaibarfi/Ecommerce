@@ -11,7 +11,9 @@ Checkout Process: A streamlined checkout process to complete purchases.
 
 # Technologies Used
 HTML5: For the structure and content of the web pages.
+
 CSS3: For styling and layout of the website.
+
 JavaScript: For interactive features and dynamic content.
 
 # Setup and Installation
